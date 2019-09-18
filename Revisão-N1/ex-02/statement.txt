@@ -1,0 +1,6 @@
+Considere um vetor de 10 números inteiros positivos maiores que zero e um único número X
+inteiro, também positivo e maior que zero. Faça um programa para:
+(a) ler pelo teclado os valores do vetor;
+(b) ler pelo teclado o número X;
+(c) verificar se o vetor está em ordem crescente, decrescente ou não ordenado;
+(d) dizer quantos números no vetor são maiores que X, menores que X e iguais a X 
