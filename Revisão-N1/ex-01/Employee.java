@@ -29,11 +29,11 @@ public class Employee {
             return this.salary;
       }
 
-      private void setAdmission(String admission) {
+      public void setAdmission(String admission) {
             this.admission = admission;
       }
 
-      private String getAdmission() {
+      public String getAdmission() {
             return this.admission;
       }
 }
